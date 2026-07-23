@@ -1,0 +1,6 @@
+{
+  "name": "Justifica-E",
+  "description": "Sistema de Gestão de Justificativas de Faltas e Atestados Médicos integrado ao Google Sheets e Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
